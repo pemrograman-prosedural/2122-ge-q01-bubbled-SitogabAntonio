@@ -40,7 +40,11 @@ int main(int _argc, char **_argv)
     }
     for (i = 0; i < x; i++)
     {
-        printf("%c,", nstr[i]);
+        if(i!=x-1){
+            printf("%c,", nstr[i]);
+        } else {
+            printf("%c", nstr[i]);
+        }
     }
 
 
