@@ -1,3 +1,4 @@
 mencoba perosalan
 mencoba lagi
 menghilangkan printf("masukkan data : ")
+mencoba lagi

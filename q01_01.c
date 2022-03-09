@@ -5,7 +5,6 @@
 
 int main(int _argc, char **_argv)
 {
-
   int j,i,x,len,temp;
   char str[100],nstr[len-x];
     x=1;
